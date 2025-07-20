@@ -125,15 +125,15 @@ main p {
     }
 
     /*Edit form di contatto*/
-    .container {
-        background-color: aliceblue;
-        padding: 40px;
-        border-radius: 5px;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.9);
-        max-width: 1600px;
-        display:flex;
-       
-    }
+.container {
+    background-color: aliceblue;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.9);
+    max-width: 1600px;
+    display: flex;
+    align-items: center;
+}
 
 .right-column {
     width: 50%;
